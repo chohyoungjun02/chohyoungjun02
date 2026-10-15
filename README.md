@@ -27,10 +27,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### 📚 Learning / Next Up
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔧 Tools
@@ -57,7 +60,7 @@
 - [x] HTML / CSS / JavaScript 기초
 - [x] TypeScript 입문
 - [ ] React로 컴포넌트 기반 UI 만들기
-- [ ] Node.js + Express로 REST API 서버 구축
+- [ ] Java + Spring Boot로 REST API 서버 구축
 - [ ] 데이터베이스(MySQL / MongoDB) 연동
 - [ ] 로그인·인증 기능 구현
 - [ ] 클라우드(AWS 등)에 직접 배포해보기
@@ -79,7 +82,7 @@
 ## 📫 Contact
 
 <!-- 사용하는 연락처만 남기고 주소를 채워 넣으세요 -->
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blueflog02@naver.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Blog](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@your-id)
 
 <div align="center">
