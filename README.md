@@ -79,7 +79,7 @@
 ## 📫 Contact
 
 <!-- 사용하는 연락처만 남기고 주소를 채워 넣으세요 -->
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blueflog02@naver.com)
 [![Blog](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@your-id)
 
 <div align="center">
