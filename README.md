@@ -37,7 +37,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -49,8 +48,8 @@
 |:---|:---|:---|
 |  [code-map](https://github.com/chohyoungjun02/code-map) | 프로젝트 폴더와 파일 시각화 | Typescript |
 |  [stock_portfolio](https://github.com/chohyoungjun02/stock_portfolio) | 보유 종목을 정리하고 한눈에 보는 포트폴리오 페이지 | Python / HTML / CSS / JS  |
-|  [Scholarship-match](https://github.com/chohyoungjun02/scholarship_match) | 장학금과 지원금 매칭 서비스 웹 | Python / HTML / CSS / JS |
-|  [delivery-widget](https://github.com/chohyoungjun02/delivery-widget) | 배달앱 많은 옵션들의 전체 선택 버튼 위젯 | HTML / CSS / JS |
+|  [Scholarship-match](https://github.com/chohyoungjun02/scholarship-match) | 장학금과 지원금 매칭 서비스 웹 | Python / HTML / CSS / JS |
+|  [delivery-widget](https://github.com/chohyoungjun02/delivery_widget) | 배달앱 많은 옵션들의 전체 선택 버튼 위젯 | HTML / CSS / JS |
 
 ---
 
