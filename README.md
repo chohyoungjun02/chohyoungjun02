@@ -51,7 +51,6 @@
 | 💼 [stock_portfolio](https://github.com/chohyoungjun02/stock_portfolio) | 보유 종목을 정리하고 한눈에 보는 포트폴리오 페이지 | HTML / CSS / JS |
 | 💰 [AccountApp](https://github.com/chohyoungjun02/AccountApp) | 수입·지출을 기록하는 가계부 웹 앱 | HTML / CSS / JS |
 
-> ✏️ 각 설명은 실제 프로젝트 내용에 맞게 수정해 주세요!
 
 ---
 
