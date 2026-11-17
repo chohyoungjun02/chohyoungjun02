@@ -47,9 +47,9 @@
 
 | 프로젝트 | 설명 | 기술 |
 |:---|:---|:---|
-| 📊 [stock_chart_study](https://github.com/chohyoungjun02/stock_chart_study) | 주식 차트 시각화를 공부하며 만든 프로젝트 | TypeScript |
-| 💼 [stock_portfolio](https://github.com/chohyoungjun02/stock_portfolio) | 보유 종목을 정리하고 한눈에 보는 포트폴리오 페이지 | HTML / CSS / JS |
-| 💰 [AccountApp](https://github.com/chohyoungjun02/AccountApp) | 수입·지출을 기록하는 가계부 웹 앱 | HTML / CSS / JS |
+|  [Code_Map](https://github.com/chohyoungjun02/Code_Map) | 프로젝트 폴더와 파일 시각화 | Typescript |
+|  [stock_portfolio](https://github.com/chohyoungjun02/stock_portfolio) | 보유 종목을 정리하고 한눈에 보는 포트폴리오 페이지 | Python / HTML / CSS / JS  |
+|  [Schoolarship](https://github.com/chohyoungjun02/AccountApp) | 장학금과 지원금 매칭 서비스 웹 | HTML / CSS / JS |
 
 
 ---
@@ -65,26 +65,6 @@
 - [ ] 클라우드(AWS 등)에 직접 배포해보기
 - [ ] 프론트 + 백엔드를 모두 갖춘 풀스택 서비스 완성 🎉
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chohyoungjun02&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chohyoungjun02&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/blueflog02@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:blueflog02@naver.com)
-
-<div align="center">
-
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchohyoungjun02&count_bg=%234F8EF7&title_bg=%23555555&title=visitors&edge_flat=false)
 
 **⭐ 오늘도 한 줄씩 성장 중입니다 ⭐**
 
